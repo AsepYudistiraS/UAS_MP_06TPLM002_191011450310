@@ -28,7 +28,7 @@ class _BeritaScreenState extends State<BeritaScreen> {
       appBar: AppBar(
         title: Column(
           children: [
-            Center(child: Text('Habibie Pratama A.N - 191011450319')),
+            Center(child: Text('Asep Yudistira Saputra - 191011450310')),
             Text('KABAR TERKINI'),
           ],
         ),
